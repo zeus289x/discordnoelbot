@@ -1,4 +1,4 @@
-# noelbot
+9# noelbot
 
 dosyayı indirdikten sonra zarchiver uygulamasını indirin
 
@@ -25,3 +25,6 @@ yazın sonra
 Python noelbotu.py dedikten sonra bekleyin terminal de bot çalıştı mesajını alcaksınız
 
 Zeus289 tarafından publanmıştır discord.gg/289
+
+
+(https://youtu.be/HlY8MQgzvIo?si=kjJVpoRFzqWewqql)
